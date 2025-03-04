@@ -43,3 +43,25 @@ The project was developed to **simplify hotel bookings** by providing a centrali
 1. Clone the repository:
    ```sh
    git clone [https://github.com/kshitij583415/AaramKaksha.git]
+
+2. Install dependencies for frontend and backend:
+   ```sh
+   cd client && npm install
+   cd api && npm install
+   cd admin && npm install
+
+3. Start the application:
+   ```sh
+   cd client && npm start
+   cd api && node index.js
+   cd admin && npm start
+
+4. Visit http://localhost:3000 in your browser.
+
+## Future Enhancements
+
+- AI-based Hotel Recommendations
+- Multi-language Support
+
+## Contact
+For any inquiries or feedback, feel free to contact me at skshitij225@gmail.com
